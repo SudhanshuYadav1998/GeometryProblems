@@ -1,0 +1,15 @@
+C:\RFP\C sharp\GeometryLine-2\GeometryLine-2\bin\Debug\net6.0\GeometryLine-2.exe
+C:\RFP\C sharp\GeometryLine-2\GeometryLine-2\bin\Debug\net6.0\GeometryLine-2.deps.json
+C:\RFP\C sharp\GeometryLine-2\GeometryLine-2\bin\Debug\net6.0\GeometryLine-2.runtimeconfig.json
+C:\RFP\C sharp\GeometryLine-2\GeometryLine-2\bin\Debug\net6.0\GeometryLine-2.dll
+C:\RFP\C sharp\GeometryLine-2\GeometryLine-2\bin\Debug\net6.0\GeometryLine-2.pdb
+C:\RFP\C sharp\GeometryLine-2\GeometryLine-2\obj\Debug\net6.0\GeometryLine-2.csproj.AssemblyReference.cache
+C:\RFP\C sharp\GeometryLine-2\GeometryLine-2\obj\Debug\net6.0\GeometryLine-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C sharp\GeometryLine-2\GeometryLine-2\obj\Debug\net6.0\GeometryLine-2.AssemblyInfoInputs.cache
+C:\RFP\C sharp\GeometryLine-2\GeometryLine-2\obj\Debug\net6.0\GeometryLine-2.AssemblyInfo.cs
+C:\RFP\C sharp\GeometryLine-2\GeometryLine-2\obj\Debug\net6.0\GeometryLine-2.csproj.CoreCompileInputs.cache
+C:\RFP\C sharp\GeometryLine-2\GeometryLine-2\obj\Debug\net6.0\GeometryLine-2.dll
+C:\RFP\C sharp\GeometryLine-2\GeometryLine-2\obj\Debug\net6.0\refint\GeometryLine-2.dll
+C:\RFP\C sharp\GeometryLine-2\GeometryLine-2\obj\Debug\net6.0\GeometryLine-2.pdb
+C:\RFP\C sharp\GeometryLine-2\GeometryLine-2\obj\Debug\net6.0\GeometryLine-2.genruntimeconfig.cache
+C:\RFP\C sharp\GeometryLine-2\GeometryLine-2\obj\Debug\net6.0\ref\GeometryLine-2.dll
